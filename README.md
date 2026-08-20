@@ -8,3 +8,4 @@
 * 不使用 XML 進行配置。
 * 使用 mapper class 讀取資料。
 * 使用 mp IRepository 讀取資料。(**官方建議方式**)
+* SimpleQuery (某些場合挺好用的)
